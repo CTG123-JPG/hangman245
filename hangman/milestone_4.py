@@ -31,6 +31,6 @@ class Hangman:
             print(f"Sorry, {guess} is not in the word. Try again.")
             self.num_lives -= 1
         print(f"You have {self.num_lives} lives remaining.")
-        print(' '.join(self.word_guessed))
+        
 
     
