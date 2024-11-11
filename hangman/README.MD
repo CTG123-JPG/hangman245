@@ -19,4 +19,4 @@ Just download Milestone_5 and run this in Visual Studio or another programme suc
 
 ##License information
 
-
+No Licesbse is required to run/install this game.
