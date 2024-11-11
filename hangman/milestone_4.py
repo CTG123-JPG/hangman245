@@ -33,8 +33,4 @@ class Hangman:
         print(f"You have {self.num_lives} lives remaining.")
         print(' '.join(self.word_guessed))
 
-    def play_game(self):
-        self.ask_for_input()
-
-game = Hangman(['apple', 'banana', 'cherry'], 5)
-game.play_game()
+    
